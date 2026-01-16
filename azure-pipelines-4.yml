@@ -10,7 +10,7 @@ pool:
   name: my_agent_hosted_pool
 
 steps:
-- script: echo Hello, world!
+- script: echo Hello world, Praise Our Lord King Christ Jesus Name!
   displayName: 'Run a one-line script'
 
 - script: |
