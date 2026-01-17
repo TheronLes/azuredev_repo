@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: ubuntu_k8
+  name: my_agent_hosted_pool
 
 steps:
 - script: echo Hello, world!
